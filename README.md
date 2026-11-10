@@ -8,7 +8,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tianshuozhang&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/tianshuozhang)
 [![GitHub followers](https://img.shields.io/github/followers/tianshuozhang?style=flat-square&logo=github&label=Followers)](https://github.com/tianshuozhang?tab=followers)
-[![Email](https://img.shields.io/badge/Email-wuyue1425%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wuyue1425@gmail.com)
 
 </div>
 
@@ -88,6 +87,6 @@
 
 <div align="center">
 
-📫 Feel free to reach out for research discussion or collaboration · 欢迎交流合作：**wuyue1425@gmail.com**
+📫 Feel free to reach out for research discussion or collaboration · 欢迎交流合作
 
 </div>
